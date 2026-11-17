@@ -1,0 +1,5 @@
+fastapi>=0.110
+httpx>=0.28
+lxml>=5
+pytest>=8
+# playwright==1.49.1  # 真实浏览器执行时取消注释；测试用 in-process ASGI 门户，离线
